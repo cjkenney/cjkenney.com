@@ -5,7 +5,7 @@ description: "No need to spend $100+ on a pair of winter gloves! Get ready for s
 tags: ["ski"]
 ---
 
-When travelling to ski resorts, you may notice skiers and snowboarders wearing the popular Kinco work gloves.
+When traveling to ski resorts, you may notice skiers and snowboarders wearing the popular Kinco work gloves.
 Turns out, Kincos are a cheap and sturdy alternative to [similarly styled, \$100 gloves](https://www.evo.com/gloves/burton-gondy-gore-tex-leather#image=152928/641950/burton-gondy-gore-tex-leather-gloves-.jpg).
 
 ## Materials
